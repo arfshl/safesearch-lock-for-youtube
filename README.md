@@ -1,5 +1,5 @@
 # ![](./icons/48.png) SafeSearch Lock for YouTube
-Chromium and Firefox extension for locking safesearch feature on YouTube
+Chromium and Firefox extension for locking Restricted Mode feature on YouTube
 
 -----
 
