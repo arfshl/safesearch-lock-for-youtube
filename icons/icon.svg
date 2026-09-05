@@ -1,0 +1,38 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 128 128"
+>
+    <!-- Red frame -->
+    <rect
+        x="8"
+        y="28"
+        width="112"
+        height="72"
+        rx="18"
+        fill="none"
+        stroke="#FF0000"
+        stroke-width="10"
+    />
+
+    <!-- Small blocky lock -->
+    <path
+        d="M52 60
+           V51
+           C52 45 56 42 64 42
+           C72 42 76 45 76 51
+           V60"
+        fill="none"
+        stroke="#FF0000"
+        stroke-width="7"
+        stroke-linecap="butt"
+    />
+
+    <rect
+        x="47"
+        y="57"
+        width="34"
+        height="27"
+        rx="3"
+        fill="#FF0000"
+    />
+</svg>
